@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "91f0",
+      "name": "Ronald",
+      "email": "ronald.c.c@hotmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "role": "admin"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "8f89",
+      "name": "Ronald",
+      "email": "ronald.c.c@hotmail.com",
+      "message": "Hola mundo"
+    }
+  ]
+}

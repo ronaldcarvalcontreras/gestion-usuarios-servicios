@@ -1,0 +1,70 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f9;
+  }
+  
+  .services-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Encabezado de servicios */
+  .services-header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .services-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color: #5D54A4;
+  }
+  
+  .services-header p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  /* Lista de servicios */
+  .services-list {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+  
+  .service-item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .service-item img {
+    max-width: 300px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .service-content {
+    max-width: 700px;
+  }
+  
+  .service-content h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .service-content p {
+    font-size: 1.2rem;
+    color: #555;
+    line-height: 1.6;
+  }
